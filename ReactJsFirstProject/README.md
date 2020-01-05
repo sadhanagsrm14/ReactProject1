@@ -1,3 +1,4 @@
+
 # Simple React JS Project
 
 ## What is the use of this Repo
@@ -13,7 +14,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
+### https://github.com/sadhanagsrm14/ReactProject1
 This URL has the application deployed in
 
 ## Prerequisites
@@ -29,7 +30,7 @@ npm install -g create-react-app
 ```
 ## Live Application URL
 
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
+The Application is deployed in https://github.com/sadhanagsrm14/ReactProject1
 
 Click on the link to see the application
 
@@ -70,7 +71,7 @@ The application has just one url /customerlist which ties to *Customers* Compone
 ## Resources
 
 **create-react-app** : The following link has all the commands that can be used with create-react-app
-https://github.com/facebook/create-react-app
+https://github.com/sadhanagsrm14/ReactProject1
 
 **ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
 
